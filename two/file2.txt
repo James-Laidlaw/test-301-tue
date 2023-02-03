@@ -1,3 +1,8 @@
 some content
+<<<<<<< HEAD
 LINE 1
 LINE 2
+=======
+one line
+line two
+>>>>>>> origin
